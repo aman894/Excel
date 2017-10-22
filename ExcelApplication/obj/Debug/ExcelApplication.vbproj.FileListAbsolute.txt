@@ -1,0 +1,12 @@
+C:\Users\1305266\source\repos\ExcelApplication\ExcelApplication\bin\Debug\ExcelApplication.exe.config
+C:\Users\1305266\source\repos\ExcelApplication\ExcelApplication\bin\Debug\ExcelApplication.exe
+C:\Users\1305266\source\repos\ExcelApplication\ExcelApplication\bin\Debug\ExcelApplication.pdb
+C:\Users\1305266\source\repos\ExcelApplication\ExcelApplication\bin\Debug\ExcelApplication.xml
+C:\Users\1305266\source\repos\ExcelApplication\ExcelApplication\obj\Debug\ExcelApplication.vbprojResolveAssemblyReference.cache
+C:\Users\1305266\source\repos\ExcelApplication\ExcelApplication\obj\Debug\ExcelApplication.Resources.resources
+C:\Users\1305266\source\repos\ExcelApplication\ExcelApplication\obj\Debug\ExcelApplication.vbproj.GenerateResource.Cache
+C:\Users\1305266\source\repos\ExcelApplication\ExcelApplication\obj\Debug\ExcelApplication.vbproj.CoreCompileInputs.cache
+C:\Users\1305266\source\repos\ExcelApplication\ExcelApplication\obj\Debug\ExcelApplication.exe
+C:\Users\1305266\source\repos\ExcelApplication\ExcelApplication\obj\Debug\ExcelApplication.xml
+C:\Users\1305266\source\repos\ExcelApplication\ExcelApplication\obj\Debug\ExcelApplication.pdb
+C:\Users\1305266\source\repos\ExcelApplication\ExcelApplication\obj\Debug\ExcelApplication.vbproj.ResolveComReference.cache
